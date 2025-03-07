@@ -79,11 +79,9 @@ Mitigates Bias and Errors – Carefully designed prompts can help reduce biases 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Example of a Vague Prompt:
-🛑 "Tell me about climate change."
+Example of a Vague Prompt: "Tell me about climate change."
 
-Improved Prompt:
-✅ "Explain climate change, including its causes, effects on the environment, and potential solutions. Provide examples of real-world impacts."
+Improved Prompt: "Explain climate change, including its causes, effects on the environment, and potential solutions. Provide examples of real-world impacts."
 
 Why the Improved Prompt is More Effective:
 Clear Scope – Instead of a broad, open-ended request, it specifies the key areas: causes, effects, and solutions.
